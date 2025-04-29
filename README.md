@@ -3,7 +3,9 @@
 **BuddyBoard** is a collaborative web application designed to enhance the study experience by enabling users to create, organize, and share custom flashcards and study decks. With a focus on community engagement, the platform allows students to exchange knowledge, favorite useful decks, and connect with peers.
 
 ---
+🔗 **Live Demo**: [https://buddyboard.vercel.app/](https://buddyboard.vercel.app/)
 
+---
 ## Key Features
 
 - **Personalized Flashcards**: Users can create flashcards and organize them into custom decks for easy access and study.
